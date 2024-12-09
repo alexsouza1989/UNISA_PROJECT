@@ -119,7 +119,7 @@ Contribuições são bem-vindas! Siga estas etapas para contribuir:
 
 ## Suporte
 
-Para dúvidas ou problemas, abra uma **Issue** no repositório do projeto ou entre em contato pelo e-mail `seu-email@provedor.com`.
+Para dúvidas ou problemas, abra uma **Issue** no repositório do projeto ou entre em contato pelo e-mail `alex154237@gmail.com`.
 
 ---
 
